@@ -1,5 +1,5 @@
 
-% SK. tanzir Mehedi Shawon
+% SK. Tanzir Mehedi Shawon
 % IT-14012
 % Department of ICT, MBSTU
 

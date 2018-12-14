@@ -1,0 +1,17 @@
+
+
+
+
+
+
+Rectangular: Digital Low Pass Filter
+Hanning: Digital Band Stop Filter
+Hamming: Digital High Pass Filter
+Blackman: Digital Band Pass Filter
+
+
+Array multiply  .*
+Matrix power     ^  
+Array power     .^ 
+Transpose       .'
+Complex conjugate transpose   '
